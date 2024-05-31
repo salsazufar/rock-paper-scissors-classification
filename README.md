@@ -9,7 +9,7 @@ This is a project for the "Learn Machine Learning for Beginners" course by Dicod
 
 ## Introduction
 
-This project was created as part of the graduation requirements for the "Learn Machine Learning for Beginners" course organized by Dicoding. In this project, we use a dataset of rock, paper, and scissors images and train a CNN model to classify these images.
+This project was created as part of the graduation requirements for the "Learn Machine Learning for Beginners" course organized by Dicoding. In this project, i use a dataset of rock, paper, and scissors images and train a CNN model to classify these images.
 
 ## Features
 - Uses TensorFlow and Keras to build the CNN model.
